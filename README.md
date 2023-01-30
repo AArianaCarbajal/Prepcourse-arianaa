@@ -1,2 +1,1 @@
-# Prepcourse-arianaa
-mi prueba de repositorio 
+este es un proyecto de ariana carbajal primer repositorio
